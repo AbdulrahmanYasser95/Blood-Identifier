@@ -1,2 +1,2 @@
 # Blood-Identifier
-Blood type identification app based on image processin
+Blood type identification app based on image processing
