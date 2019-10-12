@@ -1,4 +1,4 @@
-# Blood-Identifier
+# Blood Type Identifier
 Blood type identification app based on image processing
 
 # Team Members:
